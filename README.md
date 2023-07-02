@@ -1,4 +1,4 @@
-#Fibonacci Sequence in brainfuck
+# Fibonacci Sequence in brainfuck
 
 ## How to run
 1. Go to https://copy.sh/brainfuck/
